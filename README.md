@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="92" height="37" fill="none" viewBox="0 0 92 37"></svg>
+<img src="https://hermes.digitalinnovation.one/tracks/3c8be628-5138-4b63-9cfa-e5313cc03103.png" alt="TQI Fullstack Developer" width=20% >
 
-<hr>
+## [TQI](https://www.tqi.com.br/) Fullstack bootcamp hosted by [Digital Innovation One](https://www.dio.me/)
 
-# TQI Fullstack bootcamp hosted by Digital Innovation One
+125h Free Fullstack development program including classes, coding challenges and essencial techs for front and back-end development. In addition to classes of Database and an intro to Quality Assurance (QA).
 
-The Bootcamp content includes:
+### The Bootcamp content includes:
 
 <ul>
     <li>Opening Content</li>
@@ -21,7 +21,7 @@ The Bootcamp content includes:
     <li>QA</li>
 </ul>
 
-Helpful links:
+### Helpful links:
 <ul>
     <li><a href="https://cbea.ms/git-commit/#imperative">How to Write a Git Commit Message</a></li>
     <li><a href="https://www.markdownguide.org/basic-syntax/">Markdown Guide</a></li>
