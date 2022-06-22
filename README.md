@@ -25,4 +25,5 @@
 <ul>
     <li><a href="https://cbea.ms/git-commit/#imperative">How to Write a Git Commit Message</a></li>
     <li><a href="https://www.markdownguide.org/basic-syntax/">Markdown Guide</a></li>
+    <li><a href="tinypng.com">Tiny PNG</a> - remove unnecessary data from image</li>    
 </ul>
