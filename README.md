@@ -12,7 +12,7 @@
         <li>Computational Thinking</li>
         <li>Git and Github intro</li>
     </ul>
-    <li><a href="https://github.com/Gehm-Nicolas/TQI_fullstack_bootcamp/tree/main/HTML5">HTML5</a></li> and CSS3</li>
+    <li><a href="https://github.com/Gehm-Nicolas/TQI_fullstack_bootcamp/tree/main/HTML5">HTML5</a> and CSS3</li>
     <li>JavaScript</li>
     <li>ReactJS</li>
     <li>SQL</li>
