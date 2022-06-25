@@ -1,4 +1,6 @@
-<img src="https://hermes.digitalinnovation.one/tracks/3c8be628-5138-4b63-9cfa-e5313cc03103.png" alt="TQI Fullstack Developer" width=20% >
+<div align="center">
+    <img src="https://hermes.digitalinnovation.one/tracks/3c8be628-5138-4b63-9cfa-e5313cc03103.png" alt="TQI Fullstack Developer" width=20%>
+</div>
 
 ## [TQI](https://www.tqi.com.br/) Fullstack bootcamp hosted by [Digital Innovation One](https://www.dio.me/)
 
